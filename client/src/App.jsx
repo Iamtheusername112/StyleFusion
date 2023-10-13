@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="bg-gray-100">
       {/* Header */}
-      <header className="bg-green-700 p-4">
+      <header className="bg-green-800 p-4">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-semibold">Style Fusion</h1>
           <nav className="flex items-center space-x-4">
