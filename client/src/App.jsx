@@ -92,7 +92,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-green-700 text-white p-4">
         <div className="container mx-auto text-center">
-          <p>&copy; 2023 Style Fusion</p>
+          <p>&copy; 2023 Style Fusion.</p>
         </div>
       </footer>
     </div>
