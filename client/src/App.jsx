@@ -12,7 +12,7 @@ function App() {
             <ul className="flex items-center list-none p-0">
               <li className="mr-4">
                 <a href="#" className=" hover:underline">
-                  HomeE
+                  Home
                 </a>
               </li>
               <li className="mr-4">
