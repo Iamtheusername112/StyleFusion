@@ -1,5 +1,7 @@
 const express = require("express");
 const cors = require("cors");
+const jwt = require("jsonwebtoken");
+const bcrypt = require("bcrypt");
 const morgan = require("morgan");
 const connectDB = require("./db");
 
@@ -16,7 +18,7 @@ app.use(cors());
 app.use(morgan("combined"));
 
 //Routes
-app.get("/", (req, res) => {
+app.get("/home", (req, res) => {
   res.json("Hello world");
 });
 
