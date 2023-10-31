@@ -44,7 +44,7 @@ function App() {
               The Quad father t-shirt
             </h2>
             <p className="text-gray-600 text-sm mt-1">
-              Product description goes here.
+              Product description goes here
             </p>
             <p className="text-blue-500 text-lg font-semibold mt-2">$49.99</p>
             <button className="bg-blue-500 text-white px-4 py-2 mt-2 rounded">
